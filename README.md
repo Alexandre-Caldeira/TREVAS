@@ -89,3 +89,16 @@ __conhecimento nesses tópicos agilizará a compreensão em alguns pontos, mas n
 + Guidelines de revisão de artigos (como revisar um artigo);
 + Linhas de pesquisa NERO e orientação;
 + Construção do primeiro projeto de pesquisa.
+
+<!-- 1- Transformação homogênea
+2- Modelo cinemático
+3- Montar um diagrama de blocos para a estratégia de controle
+4- Teoria de Lyapunov / EDO (rapido, pontual, mostrar convergencia de controle e matar dúvidas).
+5- Simulação de Posição-Trajetória
+6- ROS, ROSARIA e Optitrack
+7- Cinematicas de drone
+8- Simulação de Posição - Trajetoria
+9- Dinamica de drone 
+10 - Experimetos e etc
+11- Simulação de formação estrutura virtual
+12- Proposição de Caminhos e Controle para Caminho  -->
