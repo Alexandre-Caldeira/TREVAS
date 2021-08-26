@@ -9,7 +9,7 @@
   ```
     ubuntu
   ```
-  <Pressionar ENTER>
+  < Pressionar ENTER >
   
   - Caso ainda não funcione, chame alguém que saiba usar Ubuntu e/ou ROS
 - Inicializar ROSARIA no terminal SSH do Putty:
