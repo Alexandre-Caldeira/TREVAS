@@ -8,8 +8,9 @@
   - Caso não consiga conectar, tente ligar um teclado à placa e digitar:
   ```
     ubuntu
-    ENTER
   ```
+  <Pressionar ENTER>
+  
   - Caso ainda não funcione, chame alguém que saiba usar Ubuntu e/ou ROS
 - Inicializar ROSARIA no terminal SSH do Putty:
 ```
