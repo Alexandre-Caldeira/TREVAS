@@ -3,7 +3,7 @@
 
 - Conectar micro-USB e USB na Raspberry no Pioneer 
 - Ligar o pioneer, com a frente virada para a parede que tem janelas
-- Ligar o switch do optitrack
+- Caso for usar o optitrack, ligar o switch  
 - Abrir Putty e tentar comunicar com a Raspberry via SSH usando o IP da respectiva placa
   - Caso não consiga conectar, tente ligar um teclado à placa e digitar:
   ```
@@ -17,6 +17,7 @@
 rosrun rosaria RosAria
 ```
 - Você deverá ouvir um beep alegre do Pioneer, avisando que está conectado com a Rasp
+> **IMPORTANTE:** Verificar que o Motive está aberto, as cameras ligadas, e criar o corpo rígido. Desconsiderar caso não for usar optitrack.
 - Executar código do experimento 
 - Para um exemplo de código de experimento, veja nessa pasta o script "experimentoTutorial.m"
 - Possiveis comandos de teste (via Matlab):
